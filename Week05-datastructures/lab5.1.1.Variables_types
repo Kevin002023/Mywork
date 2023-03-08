@@ -1,0 +1,18 @@
+#  variable types
+
+a = Int
+b = Float
+c = Boolean
+d = string
+e = List
+f = tuple
+g = string
+h = dict
+i = List
+j = Boolena # [2] = 3rd value
+K = dict
+L = string 
+M = dict
+n = list
+o = int
+p = undefined #spelling error. captial 'N'
